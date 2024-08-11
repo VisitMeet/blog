@@ -23,7 +23,7 @@ email: bishisht.np.mnr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The site will be launched soon. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://visitmeet.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://visitmeet.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
